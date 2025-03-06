@@ -1,0 +1,42 @@
+
+
+10 x 10 -> 80Aps (Preco, Dias alugados) -> 1 ano
+
+100 x 365 -> demanda
+
+36500 dias de dados...
+
+_________________________
+
+-> Scrapper
+      - Ap1   -> Similares...(PREMIUM) +-10
+      - Ap2   -> Similares na regiao
+
+      pegar apenas link ate ?
+      Ex:
+      https://www.airbnb.com/rooms/48697908
+
+-> Dominio   
+  - Mais um texto
+  - Cores(Hexa)
+
+-> Imagens...
+-> Concertar bricks
+
+-> Algoritimo
+  - Sistema Crawler
+  - Lista Aps Similares
+  - Armazenar Dados
+  - Plotar Dados
+  - Modelo de precos!!
+  
+----------------------
+
+Aps(1)   -> 1,2,3,4,5... -> Preco medio... -> Modelo -> Recomendacao
+
+
+
+Ec2 - Modelos
+S3 - Dados
+
+https://www.airbnb.com/rooms/48697908?check_in=2025-05-20&source_impression_id=p3_1741280764_P3ejPD4JAjoYDZ90&guests=1&adults=1&check_out=2025-05-21
